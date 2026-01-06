@@ -79,7 +79,7 @@ int main(int argc, char **argv) {
     citire_matrice(in, a, n, m);
 
     int cnt = 0;
-    Bk(out, a, b, n, m, 0,0,0, &cnt);
+    Bk(out, a, b, n, m, 0,0,1, &cnt);
     fprintf(out, "Numarul solutiilor posibile: %d\n", cnt);
     eliberare(a, n);
     eliberare(b, n);
