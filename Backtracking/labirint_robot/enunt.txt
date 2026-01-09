@@ -10,7 +10,7 @@ Robotul nu poate trece de 2 ori prin acelasi loc.
 'S' este positia de pornire
 'E' este pozitia destinatie
 '+' este o baterie care incarca robotul cu 10 unitati.
-perechi de cifre reprezinta teleportatoare.
+perechi de cifre reprezinta teleportatoare. (adica daca dau de '1' merg la urm '1')
 
 Exemple(cu matrici mai mici):
 
