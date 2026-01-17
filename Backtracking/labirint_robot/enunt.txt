@@ -27,8 +27,6 @@ Aici robotul va trebui sa se duca dupa baterie inainte de a putea ajunge la dest
 Aici robotul are exact suficienta baterie pentru a ajunge la destinatie.
 
 
-
-
 Sa se determine cel mai scurt drum pe care robotul il poate parcurge(scurt = cele mai putine casute calcate, la teleportare se numara amandoua). Daca nu se poate ajunge sa se scrie in fisier un mesaj.
 
 Solutia se va afisa in felul urmator:
